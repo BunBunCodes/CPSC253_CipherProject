@@ -6,7 +6,7 @@ This was done after having learned about AES, RSA, and other terminology like  a
 and symmetric encryption.
 
 # Installation
-The only file that you really need to download and run is 'TestingIdeas.py'
+The only file that you really need to download and run is `TestingIdeas.py`
 You can also download the other files if you want a pre-written message to encrypt.
 
 # Usage
@@ -21,3 +21,4 @@ By the way, the colours are only displayed in the terminal and in the encrypted 
 If you would like to decrypt a message that has previously been encrypted by
 this cipher, then you must ensure that the file you are about to decrypt goes
 by the name of `encrypted.txt`. After which the output will be placed in `output.txt`
+
